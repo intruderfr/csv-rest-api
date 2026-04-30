@@ -1,0 +1,11 @@
+sku,name,category,price,stock,active
+P001,Wireless Mouse,Peripherals,29.99,150,true
+P002,Mechanical Keyboard,Peripherals,89.99,42,true
+P003,USB-C Hub,Accessories,49.99,0,false
+P004,4K Monitor,Displays,399.00,17,true
+P005,Webcam HD,Peripherals,69.99,88,true
+P006,Laptop Stand,Accessories,34.99,120,true
+P007,Noise-Canceling Headphones,Audio,249.00,23,true
+P008,Standing Desk Mat,Accessories,59.99,55,true
+P009,External SSD 1TB,Storage,129.99,34,true
+P010,Smart Power Strip,Accessories,39.99,72,true
