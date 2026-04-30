@@ -1,0 +1,11 @@
+id,name,department,salary,hire_date,active
+1,Alice Johnson,Engineering,95000,2021-03-15,true
+2,Bob Smith,Sales,72000,2019-07-22,true
+3,Carol Davis,Engineering,110000,2018-01-10,false
+4,David Wilson,Marketing,68000,2022-09-01,true
+5,Eve Martinez,HR,80000,2020-11-05,true
+6,Frank Lee,Engineering,89000,2023-02-14,true
+7,Grace Kim,Sales,75000,2021-08-30,true
+8,Henry Brown,Finance,98000,2017-04-18,true
+9,Iris Chen,Engineering,102000,2022-06-20,true
+10,Jamal Hassan,Operations,71000,2024-01-09,true
